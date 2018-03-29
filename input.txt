@@ -1,0 +1,2 @@
+S -> a | iets | ietses
+E -> h
